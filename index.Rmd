@@ -1,0 +1,40 @@
+---
+title: "Jean-Yves Sgro"
+image: "portrait.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/jean-yves-sgro-473692241/"
+#  - label: Twitter
+#    url: "https://twitter.com/mounaa_belaid"
+  - label: PubMed
+    url: "https://pubmed.ncbi.nlm.nih.gov/?term=sgro-jy&sort=pubdate"
+  - label: AcademiaEdu
+    url: "https://wisc.academia.edu/JSgro"
+  - label: GoogleScholar
+    url: "https://scholar.google.com/citations?user=0em5a9YAAAAJ&hl=en#"
+  - label: ORCID
+    url: "https://orcid.org/0000-0002-2640-4949"
+  - label: GitHub
+    url: "https://github.com/jsgro"
+  - label: Carpentries
+    url: "https://carpentries.org/instructors/"
+  - label: Email
+    url: "mailto:jsgro@wisc.edu"
+output:
+  postcards::trestles
+---
+
+
+## Bio
+
+I am a scientist at the University of [Wisconsin-Madison(https://www.wisc.edu/) with years of experience in using and teaching computers and software. I create, organize and teach hands-on workshops on Next Generation Sequencing "*using a computer we cannot see, without a mouse*" *i.e.* using terminal to a remote Linux system. Other workshops are related to data analysis or 3D visualization of molecules.
+
+I started as a bench scientist, but quickly moved to using computers for DNA sequence analysis and 3D visualization of macro-molecules, with icosahedral viruses a specific focus for almost 3 decades.
+
+ 
+## Education
+
+**PhD** University Grenoble Alpes | Grenoble, France  
+*Structural study of brome mosaic virus protein and rna and of their interaction by covalent crosslinking*   
+[TS86/GRE1/0047](https://www.sudoc.fr/043548725)
+
